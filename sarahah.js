@@ -51,6 +51,5 @@ SendMessage = function SendMessage() {
 if (delay === 0)
     for (i = 0; i < numeroMensagens; i++)
         SendMessage();
-else {
+else 
     interval = setInterval(SendMessage, delay * 1000);
-}
