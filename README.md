@@ -7,3 +7,7 @@
 1. Paste the script into console in Developer Tools (f12)
 1. Change variables
 1. Enjoy
+
+**Important**:
+
+I **don't** take responsability for misuse. Use at your own risk.
